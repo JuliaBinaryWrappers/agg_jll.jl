@@ -1,0 +1,68 @@
+[[agg]]
+arch = "aarch64"
+git-tree-sha1 = "ab1bf0cc7a8c5a65d85fd9066a075c7f3421acde"
+os = "macos"
+
+    [[agg.download]]
+    sha256 = "5600caeb5483b80963f7bb70acbe67085ed097b6bd1e6322b47a08aa8ef70386"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.aarch64-apple-darwin.tar.gz"
+[[agg]]
+arch = "aarch64"
+git-tree-sha1 = "06e7753b4012aefaebd511fa5befe40eeb8f6dda"
+libc = "glibc"
+os = "linux"
+
+    [[agg.download]]
+    sha256 = "7919d787cd3a11d2cdde1804878f4b191f96e29bd75afe5b3145bf0792def273"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.aarch64-linux-gnu.tar.gz"
+[[agg]]
+arch = "aarch64"
+git-tree-sha1 = "f4cec4179526655e287c76c146e932bb177d28b3"
+libc = "musl"
+os = "linux"
+
+    [[agg.download]]
+    sha256 = "34f6c76257d3ec06e2192764afb8cff29f6caa3076ce5aa199ebc0a61ca772d5"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.aarch64-linux-musl.tar.gz"
+[[agg]]
+arch = "x86_64"
+git-tree-sha1 = "1d9869c3dce852192916151c7a4b54bbdad59523"
+os = "macos"
+
+    [[agg.download]]
+    sha256 = "c3eeb3e3c4eeb371e709200e5941e063e42a531253fd6da87c21a66aeac61e3a"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.x86_64-apple-darwin.tar.gz"
+[[agg]]
+arch = "x86_64"
+git-tree-sha1 = "4d9cf6690813f6d8849a4a643d65099959eaf656"
+libc = "glibc"
+os = "linux"
+
+    [[agg.download]]
+    sha256 = "18b0ee8052108bec960f806817dc9db0139a017c1eea31d1c1c59df75ba535d9"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.x86_64-linux-gnu.tar.gz"
+[[agg]]
+arch = "x86_64"
+git-tree-sha1 = "481f2271029ec9d803b97f2e45817ca510e86072"
+libc = "musl"
+os = "linux"
+
+    [[agg.download]]
+    sha256 = "cdbba8b7dff298149537cbf9449da2493718e0f672e281b149fb30d169131b97"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.x86_64-linux-musl.tar.gz"
+[[agg]]
+arch = "x86_64"
+git-tree-sha1 = "dd354602cf86916fc0c3aa2f04d9b6ceff6c6586"
+os = "freebsd"
+
+    [[agg.download]]
+    sha256 = "d7ecb68fddbcfdf99262d0c322b128026bb0215af76af47e2a823813c04d747d"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.x86_64-unknown-freebsd.tar.gz"
+[[agg]]
+arch = "x86_64"
+git-tree-sha1 = "3490b5a95b8e7c7a8f39b3a82097a0daffe51188"
+os = "windows"
+
+    [[agg.download]]
+    sha256 = "00e14a3fd1542ddcc1f9289f1f61835fa037479d6b4a84a4861d6e4bb4368a48"
+    url = "https://github.com/JuliaBinaryWrappers/agg_jll.jl/releases/download/agg-v1.4.3+0/agg.v1.4.3.x86_64-w64-mingw32.tar.gz"
